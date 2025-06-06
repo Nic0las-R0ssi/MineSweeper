@@ -5,7 +5,7 @@ Benvenuto nel mondo di Minesweeper! Questo gioco di logica ti sfida a scoprire c
 
 ## Come Scaricare il Gioco
 1. **Trova la sezione "Release"**: Nella pagina principale del repository, cerca la scheda "Releases" sulla destra.
-3. **Scarica il file eseguibile**: Clicca sul link per scaricare il file `https://github.com/Nic0las-R0ssi/MineSweeperMinesweeper_v1.0.exe`.
+3. **Scarica il file eseguibile**: Clicca sul link per scaricare il file `[https://github.com/Nic0las-R0ssi/MineSweeperMinesweeper_v1.0.exe](https://github.com/Nic0las-R0ssi/MineSweeper/releases/tag/1.0)`.
 4. **Installa il gioco**: Una volta completato il download, esegui il file e segui le istruzioni sullo schermo per installare il gioco.
 
 ## Come Funziona la Pagina GitHub
